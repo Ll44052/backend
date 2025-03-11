@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="task" content="bd" charset="UTF-8"/>
+        <link rel="stylesheet" href="style.css"/>
+        <script defer src="main.js" charset="UTF-8"></script>
+        <title>Задание номер 3</title>
+    </head>
+    <body>
+        <div class="midblocks">
+            <form id="forma">
+                <h1 class="midheader">Форма</h1>
+                <label>
+                    ФИО:
+                    <br/>
+                    <input name="Fio" value=""/>
+                </label>
+                <br/><br/><br/>
+                <label>
+                    Номер телефона:
+                    <br/>
+                    <input name="Tel" type="tel" value="+7"/>
+                </label>
+                <br/><br/><br/>
+                <label>
+                    e-mail:
+                    <br/>
+                    <input name="Email" type="email" placeholder="user@example.org">
+                </label>
+                <br/><br/><br/>
+                <label>
+                    Дата рождения:
+                    <br/>
+                    <input name="Birth_date" type="date" value=""/>
+                </label>
+                <br/><br/><br/>
+                <label>
+                    Пол:
+                    <br/>
+                    <input type="radio" name="Gender" value="Male"/>
+                    Мужчина
+                </label>
+                <br/>
+                <label>
+                    <input type="radio" name="Gender" value="Female"/>
+                    Женщина
+                </label>
+                <br/><br/><br/>
+                <label>
+                    <select name="Favlangs" multiple="multiple">
+                        <option value="1" selected="selected">Prolog</option>
+                        <option value="2" >JavaScript</option>
+                        <option value="3" >PHP</option>
+                        <option value="4" >C++</option>
+                        <option value="5" >Java</option>
+                        <option value="6" >C#</option>
+                        <option value="7" >Haskell</option>
+                        <option value="8" >Clojure</option>
+                        <option value="9" >Scala</option>
+                        <option value="10" >Pascal</option>
+                        <option value="11" >Python</option>
+                    </select>
+                </label>
+                <br/><br/><br/>
+                <label>
+                    Биография:
+                    <br/>
+                    <textarea name="Bio">Впишите свою биографию</textarea>
+                </label>
+                <br/><br/><br/>
+                <label>
+                    <input type="checkbox" name="Familiar"/>
+                    С контрактом ознакомлен(а)
+                    <br/>
+                    <input type="submit" value="Отправить форму"/>
+                </label>
+            </form>
+        </div>
+    </body>
+</html>
