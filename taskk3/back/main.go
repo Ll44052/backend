@@ -7,6 +7,7 @@ import (
     "html/template"
     "log"
 	"strconv"
+	"net/http/cgi"
 )
 
 type form struct{
@@ -78,5 +79,5 @@ func main() {
 	defer db.Close()
 	http.HandleFunc("../front", CreateHandler)
 	fmt.Println("Server is listening...")
-	http.ListenAndServe(":80", nil)
+	cgi.Serve(http.DefaultServeMux)
 }
