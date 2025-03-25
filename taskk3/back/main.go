@@ -1,25 +1,27 @@
 package main
+
 import (
+	"database/sql"
 	"fmt"
-    "database/sql"
-    _ "github.com/go-sql-driver/mysql"
-    "net/http"
-    "html/template"
-    "log"
-	"strconv"
+	"log"
+	"net/http"
 	"net/http/cgi"
+	"strconv"
+
+	_ "github.com/go-sql-driver/mysql"
 )
 
-type form struct{
-	id int
-	fio string
-	tel string
-	email string
-	gender string
-	date string
-	bio string
+type form struct {
+	id       int
+	fio      string
+	tel      string
+	email    string
+	gender   string
+	date     string
+	bio      string
 	favlangs []int
 }
+
 var database *sql.DB
 
 func CreateHandler(w http.ResponseWriter, r *http.Request) {
@@ -43,17 +45,21 @@ func CreateHandler(w http.ResponseWriter, r *http.Request) {
 			log.Println(err)
 		}
 
-
 		row, err := database.Query("SELECT id FROM u68676.forms ORDER BY id DESC LIMIT 1")
 		if err != nil {
 			log.Println(err)
 		}
 		defer row.Close()
-		id, err := strconv.Atoi(row)
+		var idStr string
+		err = row.Scan(&idStr)
 		if err != nil {
 			log.Println(err)
 		}
 
+		id, err := strconv.Atoi(idStr)
+		if err != nil {
+			log.Println(err)
+		}
 
 		for _, lang := range favlangs {
 			id_lang, err := strconv.Atoi(lang)
