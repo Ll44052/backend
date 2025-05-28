@@ -910,13 +910,7 @@ setcookie('contract',   '', time() - 3600, '/');
                     </div>
                     <div class="views-field views-field-field-report-text">
                         <div class="field-content">
-                            Хочу выразить искреннюю благодарность команде веб-разработчиков за их выдающуюся работу. Каждый из вас вложил свои знания и талант в создание продукта, который не только отвечает высоким стандартам качества, но и превосходит ожидания пользователей.
-
-                            Ваши усилия в разработке интуитивно понятного интерфейса и максимально быстрой работы сайта были явными. Благодаря вашей преданности делу, наши клиенты получают лучший опыт взаимодействия с нашими продуктами.
-
-                            Особенно хочется отметить вашу способность работать в условиях строгих сроков и при высоких требованиях. Вы справились с задачами, которые казались сложными, и сделали это с профессионализмом и креативностью.
-
-                            Спасибо вам за ваше усердие, и продолжайте вдохновлять нас своим примером. Мы с нетерпением ждем дальнейшего сотрудничества и новых совместных успехов!
+                           Text
 
                         </div>
                     </div>
@@ -937,13 +931,7 @@ setcookie('contract',   '', time() - 3600, '/');
                     </div>
                     <div class="views-field views-field-field-report-text">
                         <div class="field-content">
-                            Хочу поделиться своим положительным опытом сотрудничества с командой веб-разработчиков. Работа с ними была настоящим удовольствием!
-
-                            С первых дней нашего взаимодействия команда продемонстрировала высокий профессионализм и внимание к деталям. Они внимательно выслушали наши требования и предложили отличные решения, соответствующие нашим задачам. Каждый этап разработки проходил гладко, и все сроки были соблюдены.
-
-                            Особенно хочу отметить их стремление к качеству и креативный подход. Результат превзошёл все наши ожидания, и пользовательский интерфейс стал более интуитивно понятным и привлекательным. Команда всегда была на связи, быстро реагировала на все вопросы и достаточно чётко информировала о ходе работы.
-
-                            Сотрудничество с вами стало для нас ценным опытом, и мы с нетерпением ждём возможности продолжить совместную работу в будущем. Рекомендую всем, кто ищет надёжного партнера в сфере веб-разработки!
+                            Text
 
                         </div>
                     </div>
@@ -961,11 +949,7 @@ setcookie('contract',   '', time() - 3600, '/');
                     </div>
                     <div class="views-field views-field-field-report-text">
                         <div class="field-content">
-                            К сожалению, я вынужден выразить свое недовольство по поводу проделанной работы вашей команды. Заказ от компании Tesla, который должен был быть выполнен в установленный срок, был завершён с значительным опозданием. Это создало ряд проблем для нашего проекта и негативно сказалось на репутации нашей компании.
-
-                            Мы понимаем, что в веб-разработке могут возникать непредвиденные сложности, однако отсутствие своевременной коммуникации и обновлений о ходе выполнения задач вызывало недовольство у всех участников проекта. Ожидание завершения работы затянулось, и это сопровождалось отсутствием необходимых объяснений.
-
-                            Надеемся, что в будущем подобные ситуации не повторятся. Нам важно иметь надёжную и оперативную команду, способную выполнять задания в срок. Мы призываем вас пересмотреть внутренние процессы и улучшить организацию работы, чтобы избежать таких задержек.
+                            Text
 
                         </div>
                     </div>
@@ -983,7 +967,7 @@ setcookie('contract',   '', time() - 3600, '/');
                     </div>
                     <div class="views-field views-field-field-report-text">
                         <div class="field-content">
-                            Работа была сделана быстро и качественно. Все понравилось!
+                            Text
                         </div>
                     </div>
                     <div class="views-field views-field-field-report-author">
@@ -1000,7 +984,7 @@ setcookie('contract',   '', time() - 3600, '/');
                     </div>
                     <div class="views-field views-field-field-report-text">
                         <div class="field-content">
-                            Всё отлично!
+                            Text
                         </div>
                     </div>
                     <div class="views-field views-field-field-report-author">
@@ -1254,7 +1238,7 @@ setcookie('contract',   '', time() - 3600, '/');
                         <h4 class="panel-title"><a class="panel-btn">Как организована работа поддержки? </a></h4>
                     </div>
                     <div class="panel-body" style="display: none">
-                        здесь ответ на вопрос
+                        Text
                     </div>
                 </div>
                 <div class="panel panel-default panel_close">
@@ -1262,7 +1246,7 @@ setcookie('contract',   '', time() - 3600, '/');
                         <h4 class="panel-title"><a class="panel-btn">Что происходит, когда отработаны все предоплаченные часы? </a></h4>
                     </div>
                     <div class="panel-body" style="display: none">
-                        здесть тоже ответ на вопрос
+                        Text
                     </div>
                 </div>
                 <div class="panel panel-default panel_close">
@@ -1270,7 +1254,7 @@ setcookie('contract',   '', time() - 3600, '/');
                         <h4 class="panel-title"><a class="panel-btn">Что происходит, когда не отработы предоплаченные часы за месяц? </a></h4>
                     </div>
                     <div class="panel-body" style="display: none">
-                        тут тоже
+                        Text
                     </div>
                 </div>
                 <div class="panel panel-default panel_close">
@@ -1278,7 +1262,7 @@ setcookie('contract',   '', time() - 3600, '/');
                         <h4 class="panel-title"><a class="panel-btn">Как происходит оценка и согласование планируемого времени на выполнение заявок? </a></h4>
                     </div>
                     <div class="panel-body" style="display: none">
-                        тут тоже текст....
+                        Text
                     </div>
                 </div>
                 <div class="panel panel-default panel_close">
@@ -1286,7 +1270,7 @@ setcookie('contract',   '', time() - 3600, '/');
                         <h4 class="panel-title"><a class="panel-btn">Сколько программистов выделяется на проект? </a></h4>
                     </div>
                     <div class="panel-body" style="display: none">
-                        тоже самое
+                        Text
                     </div>
                 </div>
                 <div class="panel panel-default panel_close">
@@ -1294,7 +1278,7 @@ setcookie('contract',   '', time() - 3600, '/');
                         <h4 class="panel-title"><a class="panel-btn">Как подать заявку на внесение изменений на сайте? </a></h4>
                     </div>
                     <div class="panel-body" style="display: none">
-                        тоже текст
+                        Text
                     </div>
                 </div>
                 <div class="panel panel-default panel_close">
@@ -1302,7 +1286,7 @@ setcookie('contract',   '', time() - 3600, '/');
                         <h4 class="panel-title"><a class="panel-btn">Как подать заявку на добавление пользователя, изменение настроек веб-сервера и других задач по администрированию? </a></h4>
                     </div>
                     <div class="panel-body" style="display: none">
-                        и здесь текст
+                        Text
                     </div>
                 </div>
                 <div class="panel panel-default panel_close">
@@ -1310,7 +1294,7 @@ setcookie('contract',   '', time() - 3600, '/');
                         <h4 class="panel-title"><a class="panel-btn">В течение какого времени начинается работа по заявке? </a></h4>
                     </div>
                     <div class="panel-body" style="display: none">
-                        и тут
+                        Text
                     </div>
                 </div>
                 <div class="panel panel-default panel_close">
@@ -1318,7 +1302,7 @@ setcookie('contract',   '', time() - 3600, '/');
                         <h4 class="panel-title"><a class="panel-btn">В какое время работает поддержка? </a></h4>
                     </div>
                     <div class="panel-body" style="display: none">
-                        и тут тоже
+                        Text
                     </div>
                 </div>
                 <div class="panel panel-default panel_close">
@@ -1326,7 +1310,7 @@ setcookie('contract',   '', time() - 3600, '/');
                         <h4 class="panel-title"><a class="panel-btn">Подходят ли услуги поддержки, если необходимо произвести обновление ядра Drupal или модулей? </a></h4>
                     </div>
                     <div class="panel-body" style="display: none">
-                        тоже
+                        Text
                     </div>
                 </div>
                 <div class="panel panel-default panel_close">
@@ -1334,7 +1318,7 @@ setcookie('contract',   '', time() - 3600, '/');
                         <h4 class="panel-title"><a class="panel-btn">Можно ли пообщаться со специалистом голосом или в мессенджере? </a></h4>
                     </div>
                         <div class="panel-body" style="display: none">
-                            последний текст тут
+                            Text
                         </div>
                 </div>
             </div>
