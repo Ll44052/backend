@@ -915,7 +915,7 @@ setcookie('contract',   '', time() - 3600, '/');
                         </div>
                     </div>
                     <div class="views-field views-field-field-report-author">
-                        <div class="field-content">С благодарностью, команда
+                        <div class="field-content">By lorem
                             <a href="https://support.apple.com/ru-ru" tabindex="0">Apple</a>
                         </div>
                     </div>
@@ -926,7 +926,7 @@ setcookie('contract',   '', time() - 3600, '/');
                 <div class="" >
                     <div class="views-field-field-project-logo">
                         <div class="field-content">
-                            <img src="src/img/logo_0.png" width="78" height="46" alt="Ciel parfum" typeof="foaf:Image">
+                            <img src="src/img/logo_2.png" width="78" height="46" alt="Ciel parfum" typeof="foaf:Image">
                         </div>
                     </div>
                     <div class="views-field views-field-field-report-text">
@@ -936,7 +936,7 @@ setcookie('contract',   '', time() - 3600, '/');
                         </div>
                     </div>
                     <div class="views-field views-field-field-report-author">
-                        <div class="field-content">С уважением, владелец сети магазинов
+                        <div class="field-content">By lorem
                             <a href="https://chizhik.club/?ysclid=m4sdzpkrha942099729" tabindex="0">"Чижик"</a>
                         </div>
                     </div>
@@ -954,7 +954,7 @@ setcookie('contract',   '', time() - 3600, '/');
                         </div>
                     </div>
                     <div class="views-field views-field-field-report-author">
-                        <div class="field-content">С уважением, руководитель отдела работы ВЕБ-разработки компании
+                        <div class="field-content">By lorem
                             <a href="https://tesla-motor.ru/?ysclid=m4sdwex1vh704989582" tabindex="0">"Tesla"</a>
                         </div>
                     </div>
@@ -962,7 +962,7 @@ setcookie('contract',   '', time() - 3600, '/');
                 <div class="" >
                     <div class="views-field-field-project-logo">
                         <div class="field-content">
-                            <img src="src/img/logo_1.png" width="78" height="46" alt="Ciel parfum" typeof="foaf:Image">
+                            <img src="src/img/logo_2.png" width="78" height="46" alt="Ciel parfum" typeof="foaf:Image">
                         </div>
                     </div>
                     <div class="views-field views-field-field-report-text">
@@ -971,7 +971,7 @@ setcookie('contract',   '', time() - 3600, '/');
                         </div>
                     </div>
                     <div class="views-field views-field-field-report-author">
-                        <div class="field-content">Автор
+                        <div class="field-content">By lorem
                             <a href="https://yandex.ru/search?text=ремонт+телевизоров+в+краснодаре&lr=35&clid=2192594&src=suggest_B" tabindex="0">"Ремонт телевизоров в Краснодаре"</a>
                         </div>
                     </div>
@@ -979,7 +979,7 @@ setcookie('contract',   '', time() - 3600, '/');
                 <div class="" >
                     <div class="views-field-field-project-logo">
                         <div class="field-content">
-                            <img src="src/img/logo_0.png" width="78" height="46" alt="Ciel parfum" typeof="foaf:Image">
+                            <img src="src/img/logo_2.png" width="78" height="46" alt="Ciel parfum" typeof="foaf:Image">
                         </div>
                     </div>
                     <div class="views-field views-field-field-report-text">
@@ -988,7 +988,7 @@ setcookie('contract',   '', time() - 3600, '/');
                         </div>
                     </div>
                     <div class="views-field views-field-field-report-author">
-                        <div class="field-content">Мария</div>
+                        <div class="field-content">By lorem</div>
                     </div>
                 </div>
             </div>
